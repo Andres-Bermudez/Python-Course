@@ -1,0 +1,22 @@
+1. Para crear un entorno virtual navega hasta 
+   el directorio de tu proyecto y ejecuta en la terminal:
+
+    ==>   python3 -m venv <Nombre de tu entorno virtual>
+
+2. Para activar el entorno virtual en Linux/MacOS:
+    ==>   source <Nombre de entorno virtual>/bin/activate
+
+3. Para desactivar el entorno virtual:
+    ==>   deactivate
+
+4. Para instalar dependencias en tu entorno virtual:
+    ==>   pip install nombre_del_paquete
+
+5. Ver dependencias intaladas:
+    ==>   pip3 freeze
+    ==>   pip3 list
+
+6. Instalar las dependencias necesarias para un proyecto desde su archivo requirements.txt
+    ==>   pip3 install -r requirements.txt
+
+
