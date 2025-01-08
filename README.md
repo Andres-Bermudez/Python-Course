@@ -1,11 +1,6 @@
-En este archivo se ponen las indicaciones para hacer uso de tu proyecto.
+# Python Course
 
-Por ejemplo:
-
-1. Clonar el repositorio o proyecto
-2. Instalar las dependencias necesarias
-3. ...
-4.      ....
-5. Ejecutar el proyecto
-
-Etc...
+Python course to learn how it works, including its basic syntax,
+main data types, management of virtual environments for isolated
+development, and common data structures such as lists,
+dictionaries, and tuples.
